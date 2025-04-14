@@ -12,23 +12,23 @@ A lightweight Python script to download YouTube videos in the highest resolution
 Clone the repository:
 
 bash
-Copy
+
 git clone https://github.com/HassanAmohamed/YouTube-DL-Extended.git
 Navigate to the project directory:
 
 bash
-Copy
+
 cd PyTube-Downloader
 Install dependencies (only pytube required):
 
 bash
-Copy
+
 pip install pytube
 🚀 Usage
 Run the script:
 
 bash
-Copy
+
 python youtube_downloader.py
 Paste the YouTube video URL when prompted:
 
